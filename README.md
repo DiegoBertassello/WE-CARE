@@ -10,4 +10,4 @@
 <br>
 <h3>Computador:</h3>
 <br>
-<img src="">
+<img src="https://github.com/DiegoBertassello/WE-CARE/blob/main/Desktop%20We%20Care.png?raw=true">
